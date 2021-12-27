@@ -11,7 +11,7 @@
  * 子テーマとして変更の必要な項目をコピーして追加してください。
  */
 function bb_config() {
-	return array(
-		// '{key}' => '{value}'
-	);
+  return array(
+    // '{key}' => '{value}'
+  );
 }
